@@ -18,7 +18,7 @@ from sklearn.neighbors import NearestNeighbors
 
 ##GLOBAL VARIABLES
 ###Import Data
-df_inovmovie = pd.read_pickle('./condition_gi.pickle')
+df_inovmovie = pd.read_pickle('Desktop/Movie-Recommendation-Engine/condition_gi.pickle')
 #C:/Users/Marta/Documents/GitHub/Project3
 #C:/Users/luisa/OneDrive/Documentos/GitHub/Project3/condition_gi.pickle
 
@@ -76,7 +76,8 @@ with tab1:
     ### Left side of screen
     with outer_cols[0]:
         st.markdown('## Movie')
-        title = st.text_input('Type the title and press Enter')
+        # title = st.text_input('Type the title and press Enter')
+        title = st.selectbox('Type a movie title',df_inovmovie_n['primaryTitle'].unique())
         
         if title:
                 try: 
