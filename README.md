@@ -1,5 +1,5 @@
 # Demo 
-<img width="800" alt="Movie1" src="https://user-images.githubusercontent.com/108680051/219327716-e58461e6-2bfc-4828-b5cb-3a01b530efa9.png">
+<img width="400" alt="Movie1" src="https://user-images.githubusercontent.com/108680051/219327716-e58461e6-2bfc-4828-b5cb-3a01b530efa9.png">
 <img width="800" alt="Movie2" src="https://user-images.githubusercontent.com/108680051/219327956-f199ee63-2307-4627-8628-a8a7a19adb5e.png">
 <img width="800" alt="Movie4" src="https://user-images.githubusercontent.com/108680051/219327977-24a3d977-2e3c-44e7-a54a-b51b2485dd0a.png">
 
